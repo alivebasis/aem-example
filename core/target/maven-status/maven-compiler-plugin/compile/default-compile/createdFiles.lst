@@ -1,0 +1,6 @@
+com\hivelab\example\core\servlets\SimpleServlet.class
+com\hivelab\example\core\models\HelloWorldModel.class
+com\hivelab\example\core\listeners\SimpleResourceListener.class
+com\hivelab\example\core\package-info.class
+com\hivelab\example\core\schedulers\SimpleScheduledTask.class
+com\hivelab\example\core\filters\LoggingFilter.class

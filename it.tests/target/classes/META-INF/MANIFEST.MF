@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1490240555207
+Bnd-LastModified: 1490246079033
 Build-Jdk: 1.8.0_121
 Built-By: Hivelab StomX
 Bundle-Description: Bundles for Integration Tests for Example
